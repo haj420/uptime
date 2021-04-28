@@ -58,7 +58,7 @@ sites:
   - name: Start Web Services
     url: www.startwebservices.com
   - name: Start Web Services Backup
-    url: www.startwebservicesbackup.com
+    url: startwebservicesbackup.com
   - name: Town of Patrick
     url: townofpatrick.com
   - name: United Safety Towers
@@ -68,7 +68,7 @@ sites:
   - name: CWSC
     url: charwebs.com
   - name: HAJ
-    url: mcgreudermedia.com
+    url: mcgreudermediainc.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
