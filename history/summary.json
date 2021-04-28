@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "advanced-tech",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 55
+      "2021-04-28": 126
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "beverlyelamin",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 77
+      "2021-04-28": 148
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "c-cdickson",
     "status": "down",
-    "uptime": "0.70%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "0.70%",
-    "uptimeYear": "0.70%",
+    "uptime": "0.36%",
+    "uptimeDay": "0.36%",
+    "uptimeWeek": "0.36%",
+    "uptimeMonth": "0.36%",
+    "uptimeYear": "0.36%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 72
+      "2021-04-28": 143
     }
   },
   {
@@ -335,18 +335,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "monroe",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 499,
     "timeDay": 499,
     "timeWeek": 499,
     "timeMonth": 499,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2021-04-28": 55
+      "2021-04-28": 126
     }
   },
   {
@@ -372,17 +372,17 @@
     "url": "richardodom.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "richard-odom",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1729,
-    "timeDay": 1729,
-    "timeWeek": 1729,
-    "timeMonth": 1729,
-    "timeYear": 1729,
+    "time": 1735,
+    "timeDay": 1735,
+    "timeWeek": 1735,
+    "timeMonth": 1735,
+    "timeYear": 1735,
     "dailyMinutesDown": {}
   },
   {
