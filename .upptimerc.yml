@@ -15,8 +15,8 @@ sites:
     url: https://andersonunderbridge.com
   - name: beverlyelamin
     url: www.beverlyelamin.com
-  - name: Bowhunter																									
-    url: www.williamsburgbowhunter.com																			
+  - name: Bowhunter
+    url: www.williamsburgbowhunter.com
   - name: CCdickson
     url: www.ccdickson.com
   - name: Click Broadband
@@ -33,27 +33,27 @@ sites:
     url: global-tank.com
   - name: greenefuneralhome
     url: www.greenefuneralhome.net
-  - name: Iris 
+  - name: Iris
     url: iristransport.com
   - name: Jim Brown
     url: jimbrownsigns.com
   - name: JMCope
     url: www.jmcope.com
-  - name: Monroe 
+  - name: Monroe
     url: www.monroeaccess.net
   - name: NBT
     url: newberrytanks.com
   - name: Richard Odom
     url: richardodom.net
-  - name: Riverview Water 
-    url: www.riverviewwatersystem.org 
+  - name: Riverview Water
+    url: www.riverviewwatersystem.org
   - name: SETSC
     url: setsc.org
   - name: SCTBA
     url: sctba.org
-  - name: Start Advertising 
+  - name: Start Advertising
     url: www.startadvertising.com
-  - name: Start Medical Support 
+  - name: Start Medical Support
     url: www.startmedicalsupport.com
   - name: Start Web Services
     url: www.startwebservices.com
@@ -73,8 +73,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://startwebservicesbackup.com
+  cname: https://startwebservicesbackup.com/uptime
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
