@@ -3,6 +3,8 @@ owner: haj420 # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
+  - name: Advanced Tech.
+    url: atso.com
   - name: AFS
     url: https://autoformsandsupplies.com
   - name: ASP
@@ -17,22 +19,56 @@ sites:
     url: www.williamsburgbowhunter.com																			
   - name: CCdickson
     url: www.ccdickson.com
+  - name: Click Broadband
+    url: clickbroadband.com
   - name: Keyshopinc
     url: www.keyshopinc.com
   - name: CHESNET
     url: www.chesnet.net
   - name: Conterra
-    url: https://conterra.com
+    url: conterra.com
   - name: Covenant
     url: www.covenantpresby.net
+  - name: Global Tank
+    url: global-tank.com
   - name: greenefuneralhome
     url: www.greenefuneralhome.net
+  - name: Iris 
+    url: iristransport.com
+  - name: Jim Brown
+    url: jimbrownsigns.com
   - name: JMCope
     url: www.jmcope.com
+  - name: Monroe 
+    url: www.monroeaccess.net
+  - name: NBT
+    url: newberrytanks.com
+  - name: Richard Odom
+    url: richardodom.net
   - name: Riverview Water 
-    url: www.riverviewwatersystem.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: www.riverviewwatersystem.org 
+  - name: SETSC
+    url: setsc.org
+  - name: SCTBA
+    url: sctba.org
+  - name: Start Advertising 
+    url: www.startadvertising.com
+  - name: Start Medical Support 
+    url: www.startmedicalsupport.com
+  - name: Start Web Services
+    url: www.startwebservices.com
+  - name: Start Web Services Backup
+    url: www.startwebservicesbackup.com
+  - name: Town of Patrick
+    url: townofpatrick.com
+  - name: United Safety Towers
+    url: unitedsafetytowers.com
+  - name: Wireless Tower Solutions
+    url: wirelesstowersolutions.com
+  - name: CWSC
+    url: charwebs.com
+  - name: HAJ
+    url: mcgreudermedia.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
