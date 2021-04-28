@@ -9,6 +9,12 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: AFS
+    url: https://autoformsandsupplies.com
+  - name: ASP
+    url: https://autoserviceproducts.com
+  - name: Conterra
+    url: https://conterra.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
