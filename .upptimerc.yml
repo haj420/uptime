@@ -13,8 +13,22 @@ sites:
     url: https://autoformsandsupplies.com
   - name: ASP
     url: https://autoserviceproducts.com
+  - name: Annies Spa
+    url: https://anniesspa.com
+  - name: AUB
+    url: https://andersonunderbridge.com
+  - name: beverlyelamin
+    url: www.beverlyelamin.com
+  - name: CHESNET
+    url: www.chesnet.net
   - name: Conterra
     url: https://conterra.com
+  - name: Covenant
+    url: www.covenantpresby.net
+  - name: greenefuneralhome
+    url: www.greenefuneralhome.net
+  - name: JMCope
+    url: www.jmcope.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
