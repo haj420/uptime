@@ -44,7 +44,7 @@ sites:
   - name: NBT
     url: newberrytanks.com
   - name: Richard Odom
-    url: richardodom.net
+    url: https://richardodom.net
   - name: Riverview Water
     url: www.riverviewwatersystem.org
   - name: SETSC
