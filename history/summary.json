@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-30": 1,
+      "2021-04-30": 186,
       "2021-04-29": 1440,
       "2021-04-28": 521
     }
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-30": 1,
+      "2021-04-30": 186,
       "2021-04-29": 1440,
       "2021-04-28": 543
     }
@@ -139,18 +139,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "c-cdickson",
     "status": "down",
-    "uptime": "0.03%",
+    "uptime": "0.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-30": 1,
+      "2021-04-30": 186,
       "2021-04-29": 1440,
       "2021-04-28": 538
     }
@@ -352,7 +352,7 @@
     "timeMonth": 1035,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2021-04-30": 2,
+      "2021-04-30": 186,
       "2021-04-29": 1440,
       "2021-04-28": 520
     }
@@ -381,13 +381,13 @@
     "icon": "https://favicons.githubusercontent.com/richardodom.net",
     "slug": "richard-odom",
     "status": "up",
-    "uptime": "70.61%",
-    "uptimeDay": "68.35%",
-    "uptimeWeek": "70.61%",
-    "uptimeMonth": "70.61%",
-    "uptimeYear": "70.61%",
+    "uptime": "73.14%",
+    "uptimeDay": "77.49%",
+    "uptimeWeek": "73.14%",
+    "uptimeMonth": "73.14%",
+    "uptimeYear": "73.14%",
     "time": 2223,
-    "timeDay": 2661,
+    "timeDay": 2919,
     "timeWeek": 2223,
     "timeMonth": 2223,
     "timeYear": 2223,
@@ -545,18 +545,20 @@
     "url": "unitedsafetytowers.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "united-safety-towers",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 362,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 507,
+    "timeDay": 838,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2021-04-30": 1
+    }
   },
   {
     "name": "Wireless Tower Solutions",
