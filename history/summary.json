@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1089,
+      "2021-05-01": 1139,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 521
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1089,
+      "2021-05-01": 1139,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 543
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1089,
+      "2021-05-01": 1139,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 538
@@ -289,18 +289,20 @@
     "url": "iristransport.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iris",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1339,
     "timeDay": 1116,
     "timeWeek": 1339,
     "timeMonth": 1339,
     "timeYear": 1339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-01": 1
+    }
   },
   {
     "name": "Jim Brown",
@@ -355,7 +357,7 @@
     "timeMonth": 1138,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2021-05-01": 1089,
+      "2021-05-01": 1139,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 520
@@ -385,11 +387,11 @@
     "icon": "https://favicons.githubusercontent.com/richardodom.net",
     "slug": "richard-odom",
     "status": "up",
-    "uptime": "86.75%",
+    "uptime": "86.90%",
     "uptimeDay": "98.75%",
-    "uptimeWeek": "86.75%",
-    "uptimeMonth": "86.75%",
-    "uptimeYear": "86.75%",
+    "uptimeWeek": "86.90%",
+    "uptimeMonth": "86.90%",
+    "uptimeYear": "86.90%",
     "time": 2207,
     "timeDay": 1997,
     "timeWeek": 2207,
