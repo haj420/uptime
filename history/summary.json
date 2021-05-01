@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1,
+      "2021-05-01": 1070,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 521
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 2,
+      "2021-05-01": 1070,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 543
@@ -141,18 +141,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "c-cdickson",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 2,
+      "2021-05-01": 1070,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 538
@@ -355,7 +355,7 @@
     "timeMonth": 1138,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2021-05-01": 2,
+      "2021-05-01": 1071,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 520
@@ -384,18 +384,19 @@
     "url": "https://richardodom.net",
     "icon": "https://favicons.githubusercontent.com/richardodom.net",
     "slug": "richard-odom",
-    "status": "up",
-    "uptime": "83.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "83.05%",
-    "uptimeMonth": "83.05%",
-    "uptimeYear": "83.05%",
+    "status": "down",
+    "uptime": "87.10%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "87.10%",
+    "uptimeMonth": "87.10%",
+    "uptimeYear": "87.10%",
     "time": 2221,
     "timeDay": 2154,
     "timeWeek": 2221,
     "timeMonth": 2221,
     "timeYear": 2221,
     "dailyMinutesDown": {
+      "2021-05-01": 0,
       "2021-04-29": 455,
       "2021-04-28": 121
     }
@@ -556,7 +557,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
-    "timeDay": 1659,
+    "timeDay": 320,
     "timeWeek": 637,
     "timeMonth": 637,
     "timeYear": 637,
