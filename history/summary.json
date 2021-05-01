@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1139,
+      "2021-05-01": 1151,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 521
@@ -111,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1139,
+      "2021-05-01": 1151,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 543
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-01": 1139,
+      "2021-05-01": 1151,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 538
@@ -289,19 +289,19 @@
     "url": "iristransport.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "iris",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1339,
-    "timeDay": 1116,
-    "timeWeek": 1339,
-    "timeMonth": 1339,
-    "timeYear": 1339,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1357,
+    "timeDay": 1336,
+    "timeWeek": 1357,
+    "timeMonth": 1357,
+    "timeYear": 1357,
     "dailyMinutesDown": {
-      "2021-05-01": 1
+      "2021-05-01": 11
     }
   },
   {
@@ -357,7 +357,7 @@
     "timeMonth": 1138,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2021-05-01": 1139,
+      "2021-05-01": 1151,
       "2021-04-30": 1440,
       "2021-04-29": 1440,
       "2021-04-28": 520
@@ -387,11 +387,11 @@
     "icon": "https://favicons.githubusercontent.com/richardodom.net",
     "slug": "richard-odom",
     "status": "up",
-    "uptime": "86.90%",
+    "uptime": "86.94%",
     "uptimeDay": "98.75%",
-    "uptimeWeek": "86.90%",
-    "uptimeMonth": "86.90%",
-    "uptimeYear": "86.90%",
+    "uptimeWeek": "86.94%",
+    "uptimeMonth": "86.94%",
+    "uptimeYear": "86.94%",
     "time": 2207,
     "timeDay": 1997,
     "timeWeek": 2207,
