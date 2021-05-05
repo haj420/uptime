@@ -3,8 +3,6 @@ owner: haj420 # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: Advanced Tech.
-    url: atso.com
   - name: AFS
     url: https://autoformsandsupplies.com
   - name: ASP
@@ -13,12 +11,10 @@ sites:
     url: https://anniesspa.com
   - name: AUB
     url: https://andersonunderbridge.com
-  - name: beverlyelamin
-    url: www.beverlyelamin.com
   - name: Bowhunter
     url: www.williamsburgbowhunter.com
   - name: CCdickson
-    url: www.ccdickson.com
+    url: http://dealerbranded.net/ccdickson2/
   - name: Click Broadband
     url: clickbroadband.com
   - name: Keyshopinc
@@ -39,8 +35,6 @@ sites:
     url: jimbrownsigns.com
   - name: JMCope
     url: www.jmcope.com
-  - name: Monroe
-    url: www.monroeaccess.net
   - name: NBT
     url: newberrytanks.com
   - name: Richard Odom
