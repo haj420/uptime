@@ -22,19 +22,19 @@
     "url": "https://autoserviceproducts.com",
     "icon": "https://favicons.githubusercontent.com/autoserviceproducts.com",
     "slug": "asp",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.84%",
-    "time": 12314,
-    "timeDay": 14085,
-    "timeWeek": 13967,
-    "timeMonth": 13596,
-    "timeYear": 12314,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.82%",
+    "time": 12353,
+    "timeDay": 14384,
+    "timeWeek": 14080,
+    "timeMonth": 13635,
+    "timeYear": 12353,
     "dailyMinutesDown": {
-      "2021-06-18": 1,
+      "2021-06-18": 17,
       "2021-06-17": 18,
       "2021-05-28": 77,
       "2021-05-17": 19
@@ -84,10 +84,10 @@
     "url": "www.williamsburgbowhunter.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bowhunter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 405,
@@ -95,7 +95,9 @@
     "timeWeek": 230,
     "timeMonth": 403,
     "timeYear": 405,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-18": 1
+    }
   },
   {
     "name": "CCdickson",
@@ -429,9 +431,9 @@
     "url": "www.startadvertising.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "start-advertising",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -440,7 +442,9 @@
     "timeWeek": 482,
     "timeMonth": 549,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-18": 0
+    }
   },
   {
     "name": "Start Medical Support",
