@@ -110,11 +110,11 @@
     "icon": "https://favicons.githubusercontent.com/dealerbranded.net",
     "slug": "c-cdickson",
     "status": "up",
-    "uptime": "91.10%",
+    "uptime": "91.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.10%",
+    "uptimeYear": "91.11%",
     "time": 330,
     "timeDay": 0,
     "timeWeek": 284,
@@ -347,7 +347,7 @@
     "time": 4655,
     "timeDay": 0,
     "timeWeek": 4088,
-    "timeMonth": 4473,
+    "timeMonth": 4464,
     "timeYear": 4655,
     "dailyMinutesDown": {}
   },
@@ -365,7 +365,7 @@
     "time": 2551,
     "timeDay": 0,
     "timeWeek": 1992,
-    "timeMonth": 2325,
+    "timeMonth": 2329,
     "timeYear": 2551,
     "dailyMinutesDown": {
       "2021-07-03": 19,
@@ -393,7 +393,7 @@
     "time": 983,
     "timeDay": 0,
     "timeWeek": 806,
-    "timeMonth": 804,
+    "timeMonth": 806,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2021-06-11": 38
@@ -433,7 +433,7 @@
     "time": 492,
     "timeDay": 0,
     "timeWeek": 452,
-    "timeMonth": 470,
+    "timeMonth": 467,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2021-05-15": 65
@@ -453,7 +453,7 @@
     "time": 547,
     "timeDay": 0,
     "timeWeek": 501,
-    "timeMonth": 523,
+    "timeMonth": 526,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2021-06-18": 82
@@ -473,7 +473,7 @@
     "time": 635,
     "timeDay": 0,
     "timeWeek": 821,
-    "timeMonth": 782,
+    "timeMonth": 785,
     "timeYear": 635,
     "dailyMinutesDown": {}
   },
@@ -491,7 +491,7 @@
     "time": 197,
     "timeDay": 0,
     "timeWeek": 184,
-    "timeMonth": 194,
+    "timeMonth": 195,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -509,7 +509,7 @@
     "time": 352,
     "timeDay": 0,
     "timeWeek": 360,
-    "timeMonth": 339,
+    "timeMonth": 340,
     "timeYear": 352,
     "dailyMinutesDown": {}
   },
@@ -527,7 +527,7 @@
     "time": 211,
     "timeDay": 0,
     "timeWeek": 187,
-    "timeMonth": 197,
+    "timeMonth": 198,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -545,7 +545,7 @@
     "time": 363,
     "timeDay": 0,
     "timeWeek": 312,
-    "timeMonth": 311,
+    "timeMonth": 310,
     "timeYear": 363,
     "dailyMinutesDown": {}
   },
@@ -563,7 +563,7 @@
     "time": 2098,
     "timeDay": 0,
     "timeWeek": 2131,
-    "timeMonth": 2203,
+    "timeMonth": 2192,
     "timeYear": 2098,
     "dailyMinutesDown": {
       "2021-05-05": 96
@@ -583,7 +583,7 @@
     "time": 408,
     "timeDay": 0,
     "timeWeek": 405,
-    "timeMonth": 405,
+    "timeMonth": 408,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2021-07-01": 27,
@@ -605,7 +605,7 @@
     "time": 397,
     "timeDay": 0,
     "timeWeek": 345,
-    "timeMonth": 378,
+    "timeMonth": 384,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2021-07-01": 26,
