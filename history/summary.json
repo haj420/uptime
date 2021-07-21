@@ -110,11 +110,11 @@
     "icon": "https://favicons.githubusercontent.com/dealerbranded.net",
     "slug": "c-cdickson",
     "status": "up",
-    "uptime": "91.66%",
+    "uptime": "91.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.66%",
+    "uptimeYear": "91.67%",
     "time": 330,
     "timeDay": 441,
     "timeWeek": 328,
@@ -216,10 +216,10 @@
     "url": "www.covenantpresby.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "covenant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "90.83%",
-    "uptimeWeek": "98.69%",
+    "uptimeDay": "90.79%",
+    "uptimeWeek": "98.68%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.89%",
     "time": 707,
@@ -228,7 +228,7 @@
     "timeMonth": 787,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2021-07-21": 132
+      "2021-07-21": 133
     }
   },
   {
