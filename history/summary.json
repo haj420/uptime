@@ -216,19 +216,19 @@
     "url": "www.covenantpresby.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "covenant",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 588,
-    "timeWeek": 534,
-    "timeMonth": 806,
-    "timeYear": 711,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.92%",
+    "time": 710,
+    "timeDay": 584,
+    "timeWeek": 541,
+    "timeMonth": 799,
+    "timeYear": 710,
     "dailyMinutesDown": {
-      "2021-07-21": 1
+      "2021-07-21": 99
     }
   },
   {
