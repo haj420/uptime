@@ -68,11 +68,11 @@
     "url": "https://andersonunderbridge.com",
     "icon": "https://favicons.githubusercontent.com/andersonunderbridge.com",
     "slug": "aub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.61%",
     "time": 1527,
     "timeDay": 1566,
@@ -80,6 +80,7 @@
     "timeMonth": 1482,
     "timeYear": 1527,
     "dailyMinutesDown": {
+      "2021-07-21": 2,
       "2021-06-01": 161,
       "2021-05-13": 306
     }
@@ -217,18 +218,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "covenant",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "70.88%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.61%",
+    "uptimeDay": "67.14%",
+    "uptimeWeek": "95.31%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.61%",
     "time": 707,
     "timeDay": 586,
     "timeWeek": 551,
     "timeMonth": 786,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2021-07-21": 419
+      "2021-07-21": 473
     }
   },
   {
@@ -360,11 +361,11 @@
     "icon": "https://favicons.githubusercontent.com/richardodom.net",
     "slug": "richard-odom",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.27%",
     "time": 2523,
     "timeDay": 2017,
     "timeWeek": 1977,
