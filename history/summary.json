@@ -110,11 +110,11 @@
     "icon": "https://favicons.githubusercontent.com/dealerbranded.net",
     "slug": "c-cdickson",
     "status": "up",
-    "uptime": "91.64%",
+    "uptime": "91.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.64%",
+    "uptimeYear": "91.65%",
     "time": 330,
     "timeDay": 441,
     "timeWeek": 328,
@@ -216,10 +216,10 @@
     "url": "www.covenantpresby.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "covenant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
@@ -227,7 +227,9 @@
     "timeWeek": 534,
     "timeMonth": 806,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 1
+    }
   },
   {
     "name": "Global Tank",
