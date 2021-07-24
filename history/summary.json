@@ -113,9 +113,9 @@
     "url": "clikbroadband.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "clik-broadband",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "98.36%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -125,7 +125,7 @@
     "timeMonth": 849,
     "timeYear": 931,
     "dailyMinutesDown": {
-      "2021-07-24": 23
+      "2021-07-24": 24
     }
   },
   {
