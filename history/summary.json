@@ -352,10 +352,10 @@
     "url": "setsc.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "setsc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 3308,
@@ -364,6 +364,7 @@
     "timeMonth": 2887,
     "timeYear": 3308,
     "dailyMinutesDown": {
+      "2021-08-24": 1,
       "2021-05-12": 31
     }
   },
