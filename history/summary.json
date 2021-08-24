@@ -135,12 +135,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 880,
     "timeDay": 927,
     "timeWeek": 745,
-    "timeMonth": 771,
+    "timeMonth": 743,
     "timeYear": 880,
     "dailyMinutesDown": {
       "2021-07-24": 23
@@ -300,7 +300,7 @@
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.40%",
     "time": 2546,
     "timeDay": 12578,
@@ -392,10 +392,10 @@
     "url": "www.startadvertising.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "start-advertising",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 551,
@@ -404,6 +404,7 @@
     "timeMonth": 559,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2021-08-24": 0,
       "2021-08-20": 21,
       "2021-06-18": 82
     }
@@ -486,19 +487,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "united-safety-towers",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 350,
     "timeDay": 322,
     "timeWeek": 310,
     "timeMonth": 323,
     "timeYear": 350,
-    "dailyMinutesDown": {
-      "2021-08-24": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wireless Tower Solutions",
