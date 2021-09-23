@@ -154,19 +154,19 @@
     "url": "www.chesnet.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chesnet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1978,
-    "timeDay": 1787,
-    "timeWeek": 1739,
-    "timeMonth": 1786,
-    "timeYear": 1978,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1976,
+    "timeDay": 1716,
+    "timeWeek": 1727,
+    "timeMonth": 1781,
+    "timeYear": 1976,
     "dailyMinutesDown": {
-      "2021-09-23": 1
+      "2021-09-23": 19
     }
   },
   {
