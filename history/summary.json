@@ -66,11 +66,11 @@
     "icon": "https://favicons.githubusercontent.com/anniesspa.com",
     "slug": "annies-spa",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "98.49%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.73%",
     "time": 494,
     "timeDay": 803,
     "timeWeek": 479,
@@ -154,10 +154,10 @@
     "url": "www.chesnet.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chesnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1978,
@@ -165,7 +165,9 @@
     "timeWeek": 1739,
     "timeMonth": 1786,
     "timeYear": 1978,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-23": 1
+    }
   },
   {
     "name": "Conterra",
