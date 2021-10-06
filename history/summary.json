@@ -392,9 +392,9 @@
     "url": "sctba.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sctba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
@@ -404,6 +404,7 @@
     "timeMonth": 753,
     "timeYear": 683,
     "dailyMinutesDown": {
+      "2021-10-06": 0,
       "2021-09-23": 21,
       "2021-09-03": 133,
       "2021-05-15": 65
