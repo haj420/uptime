@@ -14,7 +14,7 @@
     "timeDay": 1189,
     "timeWeek": 739,
     "timeMonth": 685,
-    "timeYear": 1666,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2022-06-21": 20,
       "2022-05-20": 102,
@@ -60,7 +60,7 @@
     "timeDay": 8459,
     "timeWeek": 7451,
     "timeMonth": 7325,
-    "timeYear": 10556,
+    "timeYear": 10554,
     "dailyMinutesDown": {
       "2022-06-21": 20,
       "2022-05-21": 92,
@@ -120,7 +120,7 @@
     "timeDay": 349,
     "timeWeek": 591,
     "timeMonth": 420,
-    "timeYear": 780,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2022-05-05": 29,
       "2022-04-22": 37,
@@ -182,13 +182,13 @@
     "uptime": "93.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.66%",
+    "uptimeMonth": "74.80%",
     "uptimeYear": "92.79%",
     "time": 437,
     "timeDay": 335,
     "timeWeek": 412,
     "timeMonth": 316,
-    "timeYear": 442,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2022-06-02": 962,
       "2022-06-01": 1440,
@@ -243,7 +243,7 @@
     "timeDay": 903,
     "timeWeek": 1282,
     "timeMonth": 1395,
-    "timeYear": 1430,
+    "timeYear": 1431,
     "dailyMinutesDown": {
       "2022-06-09": 43,
       "2022-05-18": 63,
@@ -319,7 +319,7 @@
     "timeDay": 570,
     "timeWeek": 329,
     "timeMonth": 338,
-    "timeYear": 755,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2022-04-29": 18,
       "2022-01-11": 26,
@@ -342,7 +342,7 @@
     "timeDay": 388,
     "timeWeek": 461,
     "timeMonth": 364,
-    "timeYear": 396,
+    "timeYear": 397,
     "dailyMinutesDown": {
       "2022-04-18": 16,
       "2022-04-13": 142,
@@ -366,7 +366,7 @@
     "timeDay": 1986,
     "timeWeek": 1990,
     "timeMonth": 2076,
-    "timeYear": 1643,
+    "timeYear": 1644,
     "dailyMinutesDown": {
       "2022-06-22": 139,
       "2022-05-28": 31,
@@ -375,8 +375,7 @@
       "2021-08-27": 21,
       "2021-07-21": 35,
       "2021-06-28": 20,
-      "2021-06-27": 22,
-      "2021-06-26": 43
+      "2021-06-27": 22
     }
   },
   {
@@ -489,7 +488,7 @@
     "timeDay": 8026,
     "timeWeek": 7814,
     "timeMonth": 5862,
-    "timeYear": 4892,
+    "timeYear": 4893,
     "dailyMinutesDown": {
       "2021-12-21": 15,
       "2021-08-12": 16
@@ -510,7 +509,7 @@
     "timeDay": 915,
     "timeWeek": 1176,
     "timeMonth": 1869,
-    "timeYear": 2366,
+    "timeYear": 2367,
     "dailyMinutesDown": {
       "2022-06-01": 19,
       "2022-05-18": 376,
@@ -554,7 +553,7 @@
     "timeDay": 2312,
     "timeWeek": 2153,
     "timeMonth": 2122,
-    "timeYear": 1500,
+    "timeYear": 1502,
     "dailyMinutesDown": {
       "2022-06-24": 17,
       "2022-05-11": 549,
@@ -610,7 +609,7 @@
     "timeDay": 697,
     "timeWeek": 868,
     "timeMonth": 785,
-    "timeYear": 812,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2022-06-24": 17,
       "2022-05-28": 108,
@@ -722,7 +721,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "start-web-services",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -801,7 +800,7 @@
     "timeDay": 590,
     "timeWeek": 355,
     "timeMonth": 364,
-    "timeYear": 320,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2022-05-16": 742,
       "2022-05-15": 1440,
@@ -831,14 +830,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.45%",
+    "uptimeYear": "83.44%",
     "time": 499,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2022-06-25": 1384,
+      "2022-06-26": 3,
+      "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
@@ -921,7 +921,7 @@
     "timeDay": 1624,
     "timeWeek": 1585,
     "timeMonth": 1483,
-    "timeYear": 2173,
+    "timeYear": 2174,
     "dailyMinutesDown": {
       "2022-04-23": 16,
       "2022-04-19": 18,
@@ -949,7 +949,7 @@
     "timeDay": 569,
     "timeWeek": 1538,
     "timeMonth": 726,
-    "timeYear": 481,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2022-06-23": 128,
       "2022-06-22": 106,
