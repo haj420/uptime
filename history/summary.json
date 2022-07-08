@@ -837,7 +837,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "united-safety-towers",
     "status": "down",
-    "uptime": "83.37%",
+    "uptime": "83.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -848,7 +848,8 @@
     "timeMonth": 0,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2022-07-07": 1409,
+      "2022-07-08": 3,
+      "2022-07-07": 1440,
       "2022-07-06": 1440,
       "2022-07-05": 1440,
       "2022-07-04": 1440,
