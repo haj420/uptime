@@ -14,7 +14,7 @@
     "timeDay": 862,
     "timeWeek": 772,
     "timeMonth": 735,
-    "timeYear": 1298,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2022-09-14": 44,
       "2022-08-11": 67,
@@ -51,18 +51,17 @@
     "icon": "https://favicons.githubusercontent.com/autoserviceproducts.com",
     "slug": "asp",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
     "time": 10221,
     "timeDay": 5113,
     "timeWeek": 6708,
     "timeMonth": 7077,
-    "timeYear": 9412,
+    "timeYear": 9405,
     "dailyMinutesDown": {
-      "2022-09-22": 8,
       "2022-08-13": 15,
       "2022-08-08": 76,
       "2022-07-28": 39,
@@ -103,8 +102,7 @@
       "2021-10-06": 89,
       "2021-10-03": 130,
       "2021-09-30": 61,
-      "2021-09-29": 67,
-      "2021-09-23": 17
+      "2021-09-29": 67
     }
   },
   {
@@ -122,7 +120,7 @@
     "timeDay": 446,
     "timeWeek": 407,
     "timeMonth": 728,
-    "timeYear": 814,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2022-09-14": 44,
       "2022-08-11": 47,
@@ -140,8 +138,7 @@
       "2021-12-22": 27,
       "2021-12-20": 54,
       "2021-11-29": 17,
-      "2021-10-21": 70,
-      "2021-09-23": 22
+      "2021-10-21": 70
     }
   },
   {
@@ -159,7 +156,7 @@
     "timeDay": 502,
     "timeWeek": 1376,
     "timeMonth": 857,
-    "timeYear": 1531,
+    "timeYear": 1529,
     "dailyMinutesDown": {
       "2022-08-11": 64,
       "2022-05-20": 34,
@@ -243,7 +240,7 @@
     "timeDay": 1636,
     "timeWeek": 1537,
     "timeMonth": 1328,
-    "timeYear": 1554,
+    "timeYear": 1556,
     "dailyMinutesDown": {
       "2022-08-11": 68,
       "2022-06-27": 18,
@@ -303,8 +300,7 @@
       "2021-12-26": 20,
       "2021-12-23": 26,
       "2021-12-15": 16,
-      "2021-10-31": 114,
-      "2021-09-23": 19
+      "2021-10-31": 114
     }
   },
   {
@@ -326,8 +322,7 @@
     "dailyMinutesDown": {
       "2022-04-29": 18,
       "2022-01-11": 26,
-      "2021-10-21": 67,
-      "2021-09-23": 28
+      "2021-10-21": 67
     }
   },
   {
@@ -345,7 +340,7 @@
     "timeDay": 499,
     "timeWeek": 481,
     "timeMonth": 371,
-    "timeYear": 410,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2022-08-25": 37,
       "2022-08-11": 43,
@@ -371,7 +366,7 @@
     "timeDay": 2152,
     "timeWeek": 2316,
     "timeMonth": 2861,
-    "timeYear": 1923,
+    "timeYear": 1925,
     "dailyMinutesDown": {
       "2022-09-08": 17,
       "2022-06-22": 139,
@@ -514,7 +509,7 @@
     "timeDay": 1254,
     "timeWeek": 1671,
     "timeMonth": 1470,
-    "timeYear": 2347,
+    "timeYear": 2348,
     "dailyMinutesDown": {
       "2022-06-01": 19,
       "2022-05-18": 376,
@@ -548,7 +543,7 @@
     "timeDay": 2567,
     "timeWeek": 2178,
     "timeMonth": 1952,
-    "timeYear": 2336,
+    "timeYear": 2340,
     "dailyMinutesDown": {
       "2022-08-11": 55,
       "2022-07-13": 25,
@@ -583,7 +578,7 @@
     "timeDay": 1563,
     "timeWeek": 2305,
     "timeMonth": 2106,
-    "timeYear": 3234,
+    "timeYear": 3235,
     "dailyMinutesDown": {
       "2022-08-11": 55,
       "2022-07-13": 25,
@@ -613,7 +608,7 @@
     "timeDay": 825,
     "timeWeek": 1072,
     "timeMonth": 883,
-    "timeYear": 824,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2022-08-11": 54,
       "2022-06-24": 17,
@@ -626,8 +621,7 @@
       "2022-01-25": 29,
       "2021-11-30": 25,
       "2021-10-21": 63,
-      "2021-10-20": 31,
-      "2021-09-23": 21
+      "2021-10-20": 31
     }
   },
   {
@@ -645,7 +639,7 @@
     "timeDay": 667,
     "timeWeek": 765,
     "timeMonth": 675,
-    "timeYear": 695,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2022-08-11": 54,
       "2022-06-24": 16,
@@ -833,18 +827,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "united-safety-towers",
     "status": "down",
-    "uptime": "70.84%",
+    "uptime": "70.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.07%",
+    "uptimeYear": "59.06%",
     "time": 509,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 609,
+    "timeYear": 610,
     "dailyMinutesDown": {
-      "2022-09-22": 1385,
+      "2022-09-23": 3,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -1016,7 +1011,7 @@
     "timeDay": 1891,
     "timeWeek": 1645,
     "timeMonth": 1592,
-    "timeYear": 2033,
+    "timeYear": 2032,
     "dailyMinutesDown": {
       "2022-08-11": 71,
       "2022-04-23": 16,
@@ -1036,10 +1031,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cwsc",
     "status": "down",
-    "uptime": "94.92%",
+    "uptime": "94.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "60.12%",
+    "uptimeMonth": "59.98%",
     "uptimeYear": "93.00%",
     "time": 470,
     "timeDay": 0,
@@ -1047,7 +1042,8 @@
     "timeMonth": 593,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2022-09-22": 1385,
+      "2022-09-23": 3,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -1089,8 +1085,7 @@
       "2022-01-21": 342,
       "2022-01-20": 587,
       "2021-12-25": 26,
-      "2021-10-29": 93,
-      "2021-09-23": 226
+      "2021-10-29": 93
     }
   },
   {
@@ -1099,10 +1094,10 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "haj",
     "status": "down",
-    "uptime": "96.52%",
+    "uptime": "96.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.48%",
+    "uptimeMonth": "61.34%",
     "uptimeYear": "95.25%",
     "time": 455,
     "timeDay": 0,
@@ -1110,7 +1105,8 @@
     "timeMonth": 588,
     "timeYear": 484,
     "dailyMinutesDown": {
-      "2022-09-22": 1385,
+      "2022-09-23": 3,
+      "2022-09-22": 1440,
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
@@ -1142,8 +1138,7 @@
       "2022-01-21": 342,
       "2022-01-20": 587,
       "2021-12-25": 26,
-      "2021-10-29": 93,
-      "2021-09-23": 226
+      "2021-10-29": 93
     }
   }
 ]
