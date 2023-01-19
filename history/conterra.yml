@@ -1,7 +1,7 @@
 url: conterra.com
-status: up
-code: 200
-responseTime: 186
-lastUpdated: 2023-01-18T23:02:59.202Z
+status: down
+code: 503
+responseTime: 3636
+lastUpdated: 2023-01-19T23:03:38.907Z
 startTime: Wed Apr 28 2021 14:47:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
