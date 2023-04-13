@@ -1,7 +1,7 @@
 url: www.riverviewwatersystem.org
-status: up
-code: 200
-responseTime: 631
-lastUpdated: 2023-04-13T05:41:03.220Z
+status: down
+code: 504
+responseTime: 5586
+lastUpdated: 2023-04-13T06:20:49.319Z
 startTime: Wed Apr 28 2021 15:02:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
