@@ -1,7 +1,7 @@
 url: https://autoserviceproducts.com
-status: down
-code: 503
-responseTime: 1415
-lastUpdated: 2023-06-05T14:31:34.530Z
+status: up
+code: 200
+responseTime: 10220
+lastUpdated: 2023-06-05T14:49:38.473Z
 startTime: Wed Apr 28 2021 14:47:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
