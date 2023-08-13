@@ -1,7 +1,7 @@
 url: newberrytanks.com
-status: up
-code: 200
-responseTime: 316
-lastUpdated: 2023-08-12T23:02:54.250Z
+status: down
+code: 503
+responseTime: 304
+lastUpdated: 2023-08-13T05:59:20.170Z
 startTime: Wed Apr 28 2021 15:19:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
