@@ -4,10 +4,10 @@
     "url": "https://autoformsandsupplies.com",
     "icon": "https://icons.duckduckgo.com/ip3/autoformsandsupplies.com.ico",
     "slug": "afs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 878,
@@ -15,7 +15,9 @@
     "timeWeek": 1395,
     "timeMonth": 1424,
     "timeYear": 910,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 1
+    }
   },
   {
     "name": "ASP",
@@ -266,7 +268,7 @@
     "timeMonth": 0,
     "timeYear": 1927,
     "dailyMinutesDown": {
-      "2023-10-30": 864,
+      "2023-10-30": 873,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -481,9 +483,9 @@
     "slug": "jm-cope",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.93%",
     "time": 929,
     "timeDay": 7497,
@@ -491,7 +493,7 @@
     "timeMonth": 2475,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-10-30": 71,
+      "2023-10-30": 59,
       "2023-10-10": 19,
       "2023-10-06": 46,
       "2023-10-05": 16,
@@ -871,7 +873,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 865,
+      "2023-10-30": 874,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -1277,7 +1279,7 @@
     "timeMonth": 0,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2023-10-30": 865,
+      "2023-10-30": 874,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -1558,7 +1560,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "haj",
     "status": "down",
-    "uptime": "54.05%",
+    "uptime": "54.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1569,7 +1571,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 865,
+      "2023-10-30": 874,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
