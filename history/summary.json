@@ -4,10 +4,10 @@
     "url": "https://autoformsandsupplies.com",
     "icon": "https://icons.duckduckgo.com/ip3/autoformsandsupplies.com.ico",
     "slug": "afs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
@@ -15,7 +15,9 @@
     "timeWeek": 2468,
     "timeMonth": 1758,
     "timeYear": 947,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 1
+    }
   },
   {
     "name": "ASP",
@@ -147,7 +149,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 2388,
     "timeDay": 454,
     "timeWeek": 1132,
@@ -266,7 +268,7 @@
     "timeMonth": 0,
     "timeYear": 1927,
     "dailyMinutesDown": {
-      "2023-10-30": 981,
+      "2023-10-30": 1003,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -479,10 +481,10 @@
     "url": "www.jmcope.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jm-cope",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "98.86%",
+    "uptimeDay": "91.95%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.92%",
     "time": 939,
@@ -491,7 +493,7 @@
     "timeMonth": 2668,
     "timeYear": 1033,
     "dailyMinutesDown": {
-      "2023-10-30": 114,
+      "2023-10-30": 115,
       "2023-10-10": 19,
       "2023-10-06": 46,
       "2023-10-05": 16,
@@ -871,7 +873,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 982,
+      "2023-10-30": 1003,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -1277,7 +1279,7 @@
     "timeMonth": 0,
     "timeYear": 622,
     "dailyMinutesDown": {
-      "2023-10-30": 982,
+      "2023-10-30": 1003,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
@@ -1569,7 +1571,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-30": 982,
+      "2023-10-30": 1003,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 1440,
