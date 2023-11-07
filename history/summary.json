@@ -6,9 +6,9 @@
     "slug": "afs",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "41.35%",
-    "uptimeWeek": "91.62%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "40.78%",
+    "uptimeWeek": "91.54%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "99.84%",
     "time": 949,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 1946,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2023-11-07": 845
+      "2023-11-07": 853
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://autoserviceproducts.com",
     "icon": "https://icons.duckduckgo.com/ip3/autoserviceproducts.com.ico",
     "slug": "asp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "86.45%",
-    "uptimeMonth": "96.84%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "86.38%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "99.45%",
-    "time": 7867,
-    "timeDay": 589,
-    "timeWeek": 1181,
-    "timeMonth": 3407,
-    "timeYear": 8022,
+    "time": 7863,
+    "timeDay": 699,
+    "timeWeek": 1140,
+    "timeMonth": 3332,
+    "timeYear": 8006,
     "dailyMinutesDown": {
-      "2023-11-07": 1,
+      "2023-11-07": 8,
       "2023-11-02": 1301,
       "2023-11-01": 63,
       "2023-10-08": 19,
@@ -265,7 +265,7 @@
     "timeMonth": 0,
     "timeYear": 1902,
     "dailyMinutesDown": {
-      "2023-11-07": 1416,
+      "2023-11-07": 1424,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -872,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-07": 1416,
+      "2023-11-07": 1424,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -1278,7 +1278,7 @@
     "timeMonth": 0,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2023-11-07": 1416,
+      "2023-11-07": 1425,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
@@ -1576,7 +1576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-07": 1416,
+      "2023-11-07": 1425,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
