@@ -200,19 +200,19 @@
     "url": "conterra.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "conterra",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 866,
-    "timeWeek": 927,
+    "time": 717,
+    "timeDay": 878,
+    "timeWeek": 923,
     "timeMonth": 913,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-03-17": 2
+      "2024-03-17": 8
     }
   },
   {
@@ -252,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2024-03-17": 346,
+      "2024-03-17": 354,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -1024,7 +1024,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-17": 346,
+      "2024-03-17": 354,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -1428,7 +1428,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-17": 346,
+      "2024-03-17": 354,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
@@ -1812,7 +1812,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-17": 346,
+      "2024-03-17": 354,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
