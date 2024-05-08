@@ -151,7 +151,7 @@
     "timeMonth": 518,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2024-05-08": 724,
+      "2024-05-08": 737,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -248,7 +248,7 @@
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.56%",
+    "uptimeMonth": "89.59%",
     "uptimeYear": "98.71%",
     "time": 716,
     "timeDay": 458,
@@ -302,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2024-05-08": 724,
+      "2024-05-08": 738,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -928,19 +928,19 @@
     "url": "sctba.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sctba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 983,
-    "timeDay": 1199,
-    "timeWeek": 752,
-    "timeMonth": 988,
+    "timeDay": 1103,
+    "timeWeek": 784,
+    "timeMonth": 989,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2024-05-08": 1
+      "2024-05-08": 14
     }
   },
   {
@@ -1099,7 +1099,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-08": 724,
+      "2024-05-08": 738,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -1495,7 +1495,7 @@
     "uptime": "58.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.02%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "7.53%",
     "time": 601,
     "timeDay": 329,
@@ -1860,7 +1860,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-08": 725,
+      "2024-05-08": 738,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
